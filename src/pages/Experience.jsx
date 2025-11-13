@@ -32,15 +32,27 @@ const experiences = [
 
 const education = [
   {
-    degree: "Bachelor of Engineering in Computer Science",
-    institution: "Anna University, Tamil Nadu, India",
-    period: "2017 – 2021",
+    degree: "Master of Computer Applications (MCA)",
+    institution: "SRM Institute of Science and Technology, Chennai",
+    period: "2021 – 2023",
     details: [
-      "Completed undergraduate degree with focus on software engineering and backend development.",
-      "Developed academic projects using Java, Spring Boot, and MySQL, focusing on real-world system design.",
+      "Graduated with a CGPA of 8.6, focusing on full-stack development and Cloud Computing.",
+      "Developed academic projects leveraging Java, React and MySql skills.",
+    ],
+  },
+  {
+    degree: "Bachelor of Science in Mathematics (B.Sc.)",
+    institution: "St. Joseph’s College, Trichy",
+    period: "2018 – 2021",
+   details: [
+      "Graduated with a CGPA of 7.9, with coursework in calculus, integral equations, statistics, and numerical analysis.",
+      "Applied mathematical logic and problem-solving techniques to develop structured algorithms using the C programming language.",
+      "Explored data interpretation, probability, and linear algebra concepts that strengthened analytical and computational thinking.",
+      "Gained exposure to quantitative methods and mathematical modeling useful in software computation and optimization.",
     ],
   },
 ];
+
 
 const Experience = () => {
   return (
