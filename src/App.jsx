@@ -18,7 +18,7 @@ return (
 <main className="container">
 <Routes>
 <Route path="/" element={<Home />} />
-<Route path="/portfolio" element={<Home />} />
+{/* <Route path="/portfolio" element={<Home />} /> */}
 <Route path="/about" element={<About />} />
 <Route path="/skills" element={<Skills />} />
 <Route path="/experience" element={<Experience />} />
